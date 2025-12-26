@@ -24,3 +24,5 @@ This repository contains the complete submission for Cyber Security Task 2 under
 
 ## Conclusion
 This project provided hands-on experience in SOC alert monitoring, incident classification, and response planning using Splunk SIEM.
+
+#G-Drive link :- https://drive.google.com/drive/folders/1MmsPfu7-gVl2nD_S3TNmLCrEBgUjcblc?usp=sharing
