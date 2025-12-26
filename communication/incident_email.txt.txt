@@ -1,0 +1,20 @@
+Dear Management Team,
+
+During routine Security Operations Center (SOC) monitoring using the Splunk SIEM platform, multiple security alerts were identified indicating potential malicious activity within the system.
+
+The following incidents were observed:
+
+* High-severity malware alerts, including ransomware and rootkit detections
+* Multiple failed login attempts from suspicious external IP addresses
+* File access activity occurring after malware detection, indicating possible post-compromise behavior
+
+Based on the analysis, the incidents were classified as high and medium severity. Immediate response actions were initiated, including isolating affected systems, blocking malicious IP addresses, resetting compromised user credentials, and performing malware cleanup procedures.
+
+Further monitoring has been enabled to ensure no additional suspicious activity occurs. A detailed incident response report has been prepared and documented for reference.
+
+Please let us know if any additional actions or escalations are required.
+
+Regards,
+**Suman Karak**
+SOC Analyst (Intern)
+Cyber Security Internship – Future Interns
